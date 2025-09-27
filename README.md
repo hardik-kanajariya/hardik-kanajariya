@@ -6,8 +6,8 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
 
-[![Profile Views](https://komarev.com/ghpvc/?username=hardikkanajariya&color=blueviolet&style=for-the-badge)](https://github.com/hardikkanajariya)
-[![GitHub followers](https://img.shields.io/github/followers/hardikkanajariya?style=for-the-badge&color=blue)](https://github.com/hardikkanajariya)
+[![Profile Views](https://komarev.com/ghpvc/?username=hardik-kanajariya&color=blueviolet&style=for-the-badge)](https://github.com/hardik-kanajariya)
+[![GitHub followers](https://img.shields.io/github/followers/hardik-kanajariya?style=for-the-badge&color=blue)](https://github.com/hardik-kanajariya)
 
 </div>
 
@@ -16,7 +16,7 @@
 ## 🎭 About Me
 
 ```javascript
-const hardikKanajariya = {
+const hardik-kanajariya = {
     name: "Hardik Kanajariya",
     role: "Full Stack Developer",
     currentJob: {
@@ -51,9 +51,9 @@ const hardikKanajariya = {
     
     getInTouch: function() {
         return {
-            email: "hardikkanajariya@yahoo.com",
-            codecanyon: "hkdevlopers",
-            github: "hardikkanajariya"
+            email: "hardik@hardikkanajariya.in",
+            codecanyon: "hardikkanajariya",
+            github: "hardik-kanajariya"
         };
     }
 };
@@ -97,8 +97,8 @@ const hardikKanajariya = {
 
 ## 📊 GitHub Analytics
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=hardikkanajariya&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hardikkanajariya&layout=compact&langs_count=8&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=hardik-kanajariya&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hardik-kanajariya&layout=compact&langs_count=8&theme=tokyonight"/>
 
 </div>
 
@@ -106,7 +106,7 @@ const hardikKanajariya = {
 
 ## 🔥 GitHub Streak
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hardikkanajariya&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hardik-kanajariya&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
 
 </div>
 
@@ -201,7 +201,7 @@ Tools:    VS Code, Composer, npm/yarn
 
 ## 📈 Contribution Graph
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hardikkanajariya&theme=tokyo-night&hide_border=true)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hardik-kanajariya&theme=tokyo-night&hide_border=true)
 
 ---
 
@@ -209,13 +209,13 @@ Tools:    VS Code, Composer, npm/yarn
 
 ## 🌐 Connect With Me
 
-<a href="mailto:hardikkanajariya@yahoo.com">
+<a href="mailto:hardik-kanajariya@yahoo.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 <a href="https://codecanyon.net/user/hkdevlopers">
   <img src="https://img.shields.io/badge/CodeCanyon-92C83E?style=for-the-badge&logo=envato&logoColor=white" alt="CodeCanyon"/>
 </a>
-<a href="https://github.com/hardikkanajariya">
+<a href="https://github.com/hardik-kanajariya">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
@@ -270,7 +270,7 @@ Tools:    VS Code, Composer, npm/yarn
 
 If you find my open source contributions helpful! ⭐
 
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/hardikkanajariya)
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/hardik-kanajariya)
 
 ---
 
@@ -278,6 +278,6 @@ If you find my open source contributions helpful! ⭐
 
 **"Code is like humor. When you have to explain it, it's bad."** - Cory House
 
-⭐ **From [hardikkanajariya](https://github.com/hardikkanajariya)** with ❤️
+⭐ **From [hardikkanajariya](https://github.com/hardik-kanajariya)** with ❤️
 
 </div>
