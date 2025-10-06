@@ -281,3 +281,9 @@ If you find my open source contributions helpful! ⭐
 ⭐ **From [hardikkanajariya](https://github.com/hardik-kanajariya)** with ❤️
 
 </div>
+
+---
+
+## 🌐 Connect with Me
+
+-  🔗 [hardikkanajariya.in](https://www.hardikkanajariya.in?utm_source=github&utm_medium=profile&utm_campaign=backlink_evergreen&utm_content=readme) — My personal website & portfolio
